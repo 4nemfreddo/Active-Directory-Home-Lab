@@ -1,4 +1,3 @@
-# Active-Directory-Home-Lab
 
 <h1>GWipe - Disk Sanitization</h1>
 
